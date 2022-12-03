@@ -1,0 +1,19 @@
+* {
+    color: teal;
+    background-color: black;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+h1 {
+    color: teal;
+    background-color: black;
+}
+
+a {
+    color: purple;
+    background-color: black;
+}
